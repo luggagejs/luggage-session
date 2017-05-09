@@ -1,5 +1,5 @@
 {
-  "name": "react-luggage-session",
+  "name": "luggage-session",
   "version": "0.1.1",
   "description": "Utils for obtaining and keeping dropbox authentication stuff in user session",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luggagejs/react-luggage-session.git"
+    "url": "git+https://github.com/luggagejs/luggage-session.git"
   },
   "keywords": [
     "react",
@@ -31,9 +31,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luggagejs/react-luggage-session/issues"
+    "url": "https://github.com/luggagejs/luggage-session/issues"
   },
-  "homepage": "https://github.com/luggagejs/react-luggage-session#readme",
+  "homepage": "https://github.com/luggagejs/luggage-session#readme",
   "jest": {
     "setupTestFrameworkScriptFile": "mock-local-storage"
   },
