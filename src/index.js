@@ -1,1 +1,1 @@
-export { SessionManager as default } from './SessionManager'
+export { default } from './SessionManager'
