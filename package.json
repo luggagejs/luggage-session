@@ -34,6 +34,9 @@
     "url": "https://github.com/luggagejs/react-luggage-session/issues"
   },
   "homepage": "https://github.com/luggagejs/react-luggage-session#readme",
+  "jest": {
+    "setupTestFrameworkScriptFile": "mock-local-storage"
+  },
   "devDependencies": {
     "babel-cli": "^6.6.0",
     "babel-core": "^6.0.0",
@@ -46,6 +49,7 @@
     "eslint": "^3.18",
     "jest": "^19.0.2",
     "luggage": "luggagejs/luggage#2.1.1",
+    "mock-local-storage": "^1.0.2",
     "react": "^15",
     "webpack": "^2"
   },
